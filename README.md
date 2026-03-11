@@ -39,7 +39,7 @@ Through the web-app we provide online tele-consultation services as well as offl
 
 ## UI/UX Design
 
-<!-- <img src="UI Design/Layout page.png" width="800"> -->
+<img src="UI Design/Layout page.png" width="800"> 
 
 ## Built With
 
