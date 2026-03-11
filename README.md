@@ -11,7 +11,6 @@
 
 ## Contents
 
-- [Problem Statement](#problem-statement)
 - [About the Project](#about-the-project)
 - [Top Features](#top-features)
 - [UI/UX Design](#uiux-design)
