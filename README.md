@@ -30,7 +30,7 @@ Through the web-app we provide online tele-consultation services as well as offl
 1. Simple UI- KrishiConnect is aimed to assist the entire farmer population of India through a very easy to understand and convenient layout.
 
 
-2. Plant Identification-The system identifies the plant from the image and analyzes its health. Response includes : Plant's name and details, Possible disease & their description, Remedies/cures for the disease
+2. Plant Identification-The system identifies the plant from the image and analyzes its health. Response includes : Plant's name and details, Possible disease & their description, Remedies/cures for the disease.
 
 
 3. Voice Asssistant- In case a farmer has difficulty using the website they can use the voice assistant to navigate the website. They just need to say the the name of the page where they want to go and our voice assistant will take the farmer there.
