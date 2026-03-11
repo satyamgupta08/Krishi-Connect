@@ -1,0 +1,13 @@
+<html>
+    {% load i18n %}
+<body>
+    
+    <form action='/weatherresult' method='POST'>
+        {% csrf_token %}
+    {% trans "Cityname: " %}<input type='text' name='Cityname'>
+    <input type='submit'>
+     
+    </form>
+</body>
+
+</html>

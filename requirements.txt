@@ -1,0 +1,9 @@
+django
+django-allauth
+rosetta
+scipy
+pandas
+nltk
+mysql
+torch
+mysql-connector

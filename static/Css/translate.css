@@ -1,0 +1,14 @@
+:root{
+    --element: #035C41;
+    --background: #FFF7EC;
+    user-select: none;
+}
+
+.translate-inner{
+    background: var(--element);  
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+

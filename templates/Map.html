@@ -1,0 +1,41 @@
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>{% trans "Indian Agricultural Map" %}</title>
+    {% load static %}
+    <script src="{% static 'js/MapData_JS.js' %}"></script>
+    <script src="{% static 'js/Map_JS.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'Css/voice-overlay.css' %}">
+    <style>
+      body{
+        margin: 0;
+        background-color: #eeedec;
+      }
+      #map{
+        /* border:2px solid black; */
+        display:block;
+        margin: 4vh auto;
+        height: 120vh;
+        overflow: hidden;
+      }
+
+      img{
+        color: black;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        height: 30px;
+        width: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="{% url 'index' %}"><img src="{% static 'Images/BackArrow.png' %}"></a>
+    <div id="map"></div>
+    
+    </body>
+</html>
+      
+    
