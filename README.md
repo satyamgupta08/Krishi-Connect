@@ -18,15 +18,6 @@
 - [Built With](#built-with)
 - [Contributors](#contributors)
 
-## Problem Statement
-
-<img src="static/Images/prblm statement.png" width="1000"> <br/>
-**Ministry Category: DRDO <br/>
-Problem Code: NR1175<br/>
-College Name: Bhilai Institute of Technology, Durg <br/>
-College Code: C-16658<br/>
-Team Name: FARMbit<br/>**
-
 ## About The Project
 
 India is predominantly an agricultural country. Farming is a major occupation in India and one of the biggest 
@@ -69,9 +60,8 @@ Through the web-app we provide online tele-consultation services as well as offl
 
 ## Contributors
 
-[Shubhankar Tiwary](https://www.linkedin.com/in/shubhankar10) <br>
-[Akshat Pandey](https://www.linkedin.com/in/akshat-pandey-001a53147) <br>
-[Shreoshi Saharoy](https://www.linkedin.com/in/shreoshi-saharoy) <br>
-[Disha Jain](https://www.linkedin.com/in/dishajain1224) <br>
-[Yash Sakre](https://www.linkedin.com/in/yash-sakre) <br>
-[Sanskar Dwivedi](https://www.linkedin.com/in/sanskar-dwivedi-a20201200) <br>
+Ashwini Kumar Singh <br>
+Satyam Gupta <br>
+Adarsh Verma <br>
+Prakash Kumar <br>
+Abhay Prasad <br>
